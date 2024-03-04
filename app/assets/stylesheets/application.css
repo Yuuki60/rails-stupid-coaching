@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+.chat {
+    border-left: 10px solid #d3dadf;
+    margin: 10px 0;
+    padding: 10px;
+
+}
+
+.answer {
+    background-color: rgba(255, 255, 176, 0.464);
+}
+
+body {
+    padding: 20px;
+}
+
+.btn-new {
+    text-decoration: none;
+    color: rgb(77, 129, 206);
+}
+
+.btn-new:hover {
+    color: rgb(4, 57, 117);
+}
